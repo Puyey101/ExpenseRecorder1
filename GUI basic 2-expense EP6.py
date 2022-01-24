@@ -4,7 +4,7 @@ import csv
 from datetime import datetime
 
 GUI = Tk()
-GUI.title('โปรแกรมบันทึกค่าใช้จ่าย  by Puyeyh')
+GUI.title('โปรแกรมบันทึกค่าใช้จ่าย v.1.0  by Puyeyh')
 GUI.geometry('700x700+200+0')
 
 # B1 = Button(GUI,text='Hello')
